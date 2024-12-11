@@ -43,7 +43,8 @@ const Home = () => {
                 </a>
               </div>
               <div className="home-img pad-15">
-              <img src={`${process.env.PUBLIC_URL}/image.jpeg`} alt="Profile" />
+              <img src="https://IshikaSoni056.github.io/ReactPortfolio/image.jpeg" alt="Profile" />
+
 
               </div>
             </div>
