@@ -43,7 +43,7 @@ const Home = () => {
                 </a>
               </div>
               <div className="home-img pad-15">
-              <img src="/image.jpeg" alt="Profile" />
+              <img src="image.jpeg" alt="Profile" />
 
 
               </div>
