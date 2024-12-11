@@ -109,6 +109,8 @@ const ContentWrapper = styled.div`
     text-align: center;
     font-size: 20px;
     transition: height 0.5s ease-in-out;
+    max-width: 550px;
+    max-height: 300px;
   }
 
   .layer h3 {
