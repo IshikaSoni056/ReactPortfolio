@@ -18,7 +18,7 @@ const Projects = () => {
             <h1 className="pj">Projects</h1>
             <div className="prj">
               <div className="pt-img">
-                <img src="/magazilla.webp" alt="Project 1" />
+                <img src="magazilla.webp" alt="Project 1" />
                 <div className="layer">
                   <h2>NewsGlobe Chrome extension</h2>
                   <p className="">HTML|CSS|Javascript|Tailwind CSS</p>
@@ -29,7 +29,7 @@ const Projects = () => {
                 </div>
               </div>
               <div className="pt-img">
-                <img src="/nature.webp" alt="Project 2" />
+                <img src="nature.webp" alt="Project 2" />
                 <div className="layer">
                   <h2>TourBeauties</h2>
                   <p>HTML|CSS|Javascript</p>

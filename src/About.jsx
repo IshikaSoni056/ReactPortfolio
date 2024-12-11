@@ -27,16 +27,16 @@ const About = () => {
   </p>
   <div className="platforms">
     <a href="https://leetcode.com/u/Ishikasoni056/">
-      <img src="/download.png" alt="LeetCode" />
+      <img src="download.png" alt="LeetCode" />
     </a>
     <a href="https://www.codechef.com/users/ishikasoni_056">
-      <img src="/codechef.jpg" alt="CodeChef" />
+      <img src="codechef.jpg" alt="CodeChef" />
     </a>
     <a href="https://github.com/IshikaSoni056">
-      <img src="/github.png" alt="GitHub" />
+      <img src="github.png" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/ishika-soni-8b005325a/">
-      <img src="/linkd.png" alt="LinkedIn" />
+      <img src="linkd.png" alt="LinkedIn" />
     </a>
   </div>
 </div>
