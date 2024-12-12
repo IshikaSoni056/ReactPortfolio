@@ -36,7 +36,7 @@ const Home = () => {
                   solutions.
                 </p>
                 <a
-                  href="https://drive.google.com/file/d/1RcpTqNoAyk2aioPOLNtIKtlAB5n8w2eS/view?usp=sharing"
+                  href="https://drive.google.com/file/d/16bOqE6BCF2exm7ufueX6rJSk0XVMCmE1/view?usp=sharing"
                   className="btn hire-me"
                 >
                   RESUME
